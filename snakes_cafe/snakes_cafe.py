@@ -9,7 +9,7 @@ menu = [
   #desserts
   "Ice Cream", "Cake", "Pie",
   #drinks
-  "Coffee", "Tea", "Cnicorn Tears"
+  "Coffee", "Tea", "Unicorn Tears"
 ]
 
 order = {}
